@@ -1,4 +1,4 @@
-Rrequirements
+Requirements
 
 ESP 32/ ESP 8266 
 ultrasonic sensor HC -SR04
